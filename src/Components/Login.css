@@ -1,0 +1,122 @@
+.main p{
+    font-size: 0.7rem;
+    
+   
+  
+}  
+.p{
+    font-weight: 500;
+    color: black;
+}
+.p1{
+    font-weight: 500;
+    color: black;
+}
+.Login{
+    margin-top: 30px;
+}
+.Login span{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 3px 55px;
+    font-size: medium;
+    cursor: pointer;
+    
+}
+.container form{
+    border-radius: 20%;
+   
+}
+#email{
+    margin: 8px;
+    width: 260px;
+    height: 40px;
+    border-radius: 25px;
+    text-align: center;
+    border: 1px solid black;
+
+
+}
+#password{
+    margin: 8px;
+    width: 260px;
+    height: 40px;
+    border-radius: 25px;
+    text-align: center;
+    border: 1px solid black;
+}
+.btn{
+    margin: 15px;
+    width: 260px;
+    height: 40px;
+    border-radius: 20px;
+    background-color:rgb(227, 11, 92);
+    color: white;
+    border: 2px solid rgb(227, 11, 92) ;
+    
+}
+.pt{
+    color: rgb(227, 11, 92);
+    font-size: 0.7em;
+    margin-left: 130px;
+    font-weight: 700;
+   text-decoration: none;
+}
+.wth{
+    font-size: x-small;
+    margin-top: 20px;
+    color:rgb(195, 184, 184);
+}
+.footer{
+    font-size: 0.7em;
+    margin-top: 10px;
+}
+.subfooter{
+    
+    font-size: 0.7em;
+    margin-top: 10px;
+}
+.new{
+    color: rgb(227, 11, 92);
+    text-decoration: none;
+    font-size: smaller;
+}
+.term{
+    color: rgb(227, 11, 92);
+    text-decoration: underline; 
+    font-size: smaller;
+}
+.Ggl{
+   border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+.fb{
+   margin-left: 30px;
+   margin-right: 30px;
+   border-radius: 50%; 
+   width: 30px;
+   height: 30px;
+}
+.tweet{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+.icon{
+    margin-top: 20px;
+}
+#line{
+    margin-left: 10px;
+    margin-top: 2px;
+    width: 45%;
+    border: none;
+    background: rgb(227, 11, 92);
+    height: 3px;
+   margin-bottom: 25px;
+  
+   
+
+    
+}
